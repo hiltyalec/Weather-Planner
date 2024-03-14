@@ -8,4 +8,4 @@ This is an application that retrieves weather data for cities. It uses the openw
 
 Repository Link: https://github.com/hiltyalec/Weather-Planner
 
-Deployed Application Link:
+Deployed Application Link: https://hiltyalec.github.io/Weather-Planner/
