@@ -1,0 +1,19 @@
+/* Google Fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+body{
+    background:url('https://images.unsplash.com/photo-1709374601273-57d0a44c9437?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow:hidden;
+    height: 100vh;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    color: mintcream;
+}
+
+h2{
+    color: black;
+    font-weight: bolder;
+}
